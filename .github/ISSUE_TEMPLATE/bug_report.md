@@ -18,12 +18,12 @@ Steps to reproduce the behavior:
 2. Click on '....'
 3. '...'
 ...
-X. See error
+N. Problem occurs
 
 **Expected behavior**
 A clear and concise description of what you expected to happen.
 
-**Does the issue still occur after uninstalling all MODS?**
+**Does the issue still occur after uninstalling all mods?**
 Yes or No
 
 **Screenshots or Videos**
@@ -31,8 +31,8 @@ If applicable, add screenshots or videos to help explain your problem. You can
 drag and drop them into the this field. Keep videos as short as possible.
 
 **Version**
- - OS: Windows or Linux
- - Version: Found in-game on the main screen, bottom left side.
+- OS: Windows or Linux
+- Version: Found in-game on the main screen, bottom left side.
 
 **Additional context**
 Add any other context about the problem here.
