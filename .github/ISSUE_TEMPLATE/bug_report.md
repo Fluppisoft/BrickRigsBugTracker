@@ -31,8 +31,13 @@ If applicable, add screenshots or videos to help explain your problem. You can
 drag and drop them into the this field. Keep videos as short as possible.
 
 **Version**
+- Game version: Found in-game on the main screen, bottom left side.
+
+**System**
 - OS: Windows or Linux
-- Version: Found in-game on the main screen, bottom left side.
+- CPU:
+- GPU:
+- GPU driver version:
 
 **Additional context**
 Add any other context about the problem here.
