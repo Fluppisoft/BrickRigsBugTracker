@@ -7,37 +7,28 @@ assignees: ''
 
 ---
 
-<!-- Please fill out *all* fields as best as you can, or we can't help you -->
+<!-- Read first: -->
+<!-- Make sure the bug still occurs after you have uninstalled all mods. -->
+<!-- Make sure your bug hasn't been reported by someone else already. -->
+<!-- If you are sure you found a new bug, please fill out all fields below as best as you can. -->
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+**What happened?**
+A clear and concise description of what happened and what you expected to happen instead.
 
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. '...'
-...
-N. Problem occurs
-
-**Expected behavior**
-A clear and concise description of what you expected to happen.
+**How can we reproduce this bug?**
+1. Go to ...
+2. Spawn ...
+3. Press ...
 
 **Does the issue still occur after uninstalling all mods?**
 Yes or No
 
-**Screenshots or Videos**
+**Screenshots or videos**
 If applicable, add screenshots or videos to help explain your problem. You can
 drag and drop them into the this field. Keep videos as short as possible.
 
-**Version**
-- Game version: Found in-game on the main screen, bottom left side.
-
-**System**
-- OS: Windows or Linux
+**Game and system information**
+- Game version: *Found in-game on any menu, bottom left side.*
+- OS:
 - CPU:
 - GPU:
-- GPU driver version:
-
-**Additional context**
-Add any other context about the problem here.
